@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: "blockhead-dark-side", sans-serif;
+font-weight: 400;
+font-size: 150px;
+font-style: normal;
+justify-items: center;
+text-align: center;
+margin-top: 25vh;
+}
+.arrow-link {
+    position: absolute;
+    top: 90%;
+    right:10%;}
+img{
+    width: 40px;
+    height: 30px;
+}
+  
